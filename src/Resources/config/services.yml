@@ -1,0 +1,4 @@
+services:
+#    lia_bridge_angular.example:
+#        class: Lia\Bridge\AngularBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
