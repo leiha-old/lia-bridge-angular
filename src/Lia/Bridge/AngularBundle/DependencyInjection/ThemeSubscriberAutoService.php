@@ -9,14 +9,6 @@ class ThemeSubscriberAutoService
     extends SubscriberBase
 {
     /**
-     * @return string
-     */
-    public function getPathOfAsset()
-    {
-        return '/bundles/liabridgeangular/';
-    }
-
-    /**
      * Allows to set the assets for the bundle
      * They will be on the top of the page
      * @param AssetBag $bag
